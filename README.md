@@ -5,7 +5,7 @@
 
 My IT Projects are mostly related to my home lab setup which you can read more about here.
 - Windows Domain
-  - [🔒 Active Diretory Domain Setup]()
+  - [🔒 Active Diretory Domain Setup](ActiveDirectoryDomainSetup)
   - [🗄 DNS Server]()
   - [🪪 Active Directory Certificates]()
   - [🏠 Roaminig profiles and home directories]()
