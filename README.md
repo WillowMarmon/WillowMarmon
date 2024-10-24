@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Willow, A Technology Professional
 
-<!--
-**WillowMso/WillowMso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 IT Projects
+<!--- TODO: Link "here" to ./homelab --->
 
-Here are some ideas to get you started:
+My IT Projects are mostly related to my home lab setup which you can read more about here.
+- Windows Domain
+  - [🔒 Active Diretory Domain Setup]()
+  - [🗄 DNS Server]()
+  - [🪪 Active Directory Certificates]()
+  - [🏠 Roaminig profiles and home directories]()
+  - [🗂️ SMB Shares]()
+  - [💿 Custom Deployment Windows ISOs]()
+- RHEL Server hosted with AWS EC2
+  - [🛜 OpenVPN Remote-Client to site]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Development Projects
+Almost entirely my development consists of solving a problem not creating a general purpose solution. I Am not a developer, I just understand enough to solve problems for which tools either don't exist or won't work for one reason or another.
+- [Personlal Wiki]()
+- [Personal Website](https://github.com/WillowMso/willowmarmon.com)
