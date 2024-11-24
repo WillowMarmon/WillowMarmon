@@ -1,6 +1,6 @@
 ## Public PGP Key:
 
-[download](https://github.com/WillowMarmon/WillowMarmon/pgp/willow.gpg)
+[download](https://raw.githubusercontent.com/WillowMarmon/WillowMarmon/refs/heads/main/pgp/willow.gpg)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
