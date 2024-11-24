@@ -11,5 +11,5 @@ I have some history in journalism, and as such am a proponent of encryption. You
 Outside of tech, I enjoy writing, book binding, knitting, and some very basic sewing. I also enjoy music, and am known as that girl who always has music in her ear.
 
 ### find me online
-🌐 - [https://willowmarmon.com](https://willowmarmon.com)
-✉️ - [willow@willowmarmon.com](mailto:willow@willowmarmon.com)
+- 🌐 - [https://willowmarmon.com](https://willowmarmon.com)
+- ✉️ - [willow@willowmarmon.com](mailto:willow@willowmarmon.com)
